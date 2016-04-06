@@ -1,0 +1,40 @@
+html {
+	background-image: url("img/home-page-background.jpg"); 
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	text-align:center;
+	color:white;
+}
+
+h1 {
+	text-shadow: 2px 1px 2px black, 0px 0px 8px #A9A9A9;
+	font-family: "Courier New", Courier, monospace;
+}
+
+h2 {
+	font-family: "Courier New", Courier, monospace;
+}
+p {
+	font-family: "Courier New", Courier, monospace;
+}
+
+/* unvistited link */
+a:link {
+	color:#FFD700;
+}
+
+/* visited link */
+a:visited {
+	color:#FF00FF;
+}
+
+/* mouse over link */
+a:hover {
+	color:blue;
+}
+
+/* selected link */
+a:active {
+	color:green;
+}

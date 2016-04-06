@@ -1,0 +1,45 @@
+html {
+	background-color: #161516;
+	text-align: center;
+
+}
+
+.jumbotron {
+	color: #f0f8ff;
+	text-align: center;
+	font-family: Century Gothic, sans-serif;
+
+
+}
+
+.images {
+	float: left;
+	margin-left:60px;
+	color:#ffb3a4;
+
+}
+
+.image {
+	float: right;
+	color:#ffb3a4;
+	margin-right: 200px;
+}
+
+/* unvistited link */
+a:link {
+	color:#800000;
+}
+
+/* visited link */
+a:visited {
+	color:#FF1493;
+}
+
+/* mouse over link */
+a:hover {
+	color:#FFD700;
+}
+
+/* selected link */
+a:active {
+	color:green;

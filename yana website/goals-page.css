@@ -1,0 +1,66 @@
+html{
+	background-image: url("img/chalkboard-background.jpg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+}
+
+h1{
+	color:#ff2d2d;
+	text-align: center;
+	font-family: ‘Arial Black’, Gadget, sans-serif;
+
+	font-size:52px;
+}
+
+h2 {
+	text-align: center;
+	color:#dfdfdf;
+	font-family: ‘Arial Black’, Gadget, sans-serif;
+
+}
+
+h3 {
+	font-size: 30px;
+	font-family: Gill Sans / Gill Sans MT, sans-serif;
+	color: #F5F5F5;
+
+}
+
+.guide {
+	text-align: center;
+}
+ ul{
+ 	color: #FFF0F5;
+ }
+
+ .longterm {
+ 	margin-left:870px;
+ 	position: relative;
+ 	bottom: 308px;
+ 	
+ 
+ }
+
+ .shortterm {
+ 	margin: 0px 350px;
+ }
+
+ /* unvistited link */
+a:link {
+	color:#800000;
+}
+
+/* visited link */
+a:visited {
+	color:#C71585;
+}
+
+/* mouse over link */
+a:hover {
+	color:#FFD700;
+}
+
+/* selected link */
+a:active {
+	color:green;

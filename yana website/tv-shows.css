@@ -1,0 +1,47 @@
+html {
+	background-image: url("img/tv-show-page-background.jpeg");
+	background-repeat: no-repeat;
+	background-size: 100% 100%;
+	background-attachment: fixed;
+	text-align: center;
+
+}
+
+h1 {
+	color:#DC143C;
+	text-shadow: 1px 1px #40E0D0;
+	font-family: Century Gothic, sans-serif;
+}
+
+h2 {
+	color:#FF00FF;
+	text-shadow: 1px 1px #000000;
+	font-family: Century Gothic, sans-serif;
+}
+
+h3 {
+	font-family: ‘Arial Narrow’, sans-serif;
+}
+
+p {
+	font-family: ‘Arial Narrow’, sans-serif;
+}
+
+/* unvistited link */
+a:link {
+	color:#800000;
+}
+
+/* visited link */
+a:visited {
+	color:#800000;
+}
+
+/* mouse over link */
+a:hover {
+	color:blue;
+}
+
+/* selected link */
+a:active {
+	color:green;
